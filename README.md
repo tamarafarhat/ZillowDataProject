@@ -6,7 +6,7 @@ I wrote functions that
 1) Find start year of uncleaned data. 
 2) Make dictonaries of row items and their row index.
 3) Convert years in string format to integers.
-4) Plot uncleaned and unstructed price data over time.
+4) Take in uncleaned and unstructed price data and visualize in a standardized format.
 
 ## Analysis Done
 I calculated appreciation rates from 1996 to 2016 and the completeness of the data for each city.
